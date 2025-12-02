@@ -109,18 +109,7 @@ For each high-risk access event, displays:
 - Compliance Infraction Score
 - Actual and Predicted Violation Status
 
-## 📁 Project Structure
 
-```
-project1/
-├── compliance_risk_engine.py    # Main analysis script
-├── generate_data.py             # Data generation script
-├── requirements.txt             # Python dependencies
-├── README.md                    # This file
-└── data/                        # Generated data files (gitignored)
-    ├── metadata.csv
-    └── access_logs.csv
-```
 
 ## 🔧 Technical Details
 
