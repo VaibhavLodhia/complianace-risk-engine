@@ -53,7 +53,8 @@ Raw Access Logs → Isolation Forest → Anomaly Scores → XGBoost → Complian
 
 1. Clone the repository or navigate to the project directory:
 ```bash
-cd project1
+cd compliance-risk-engine
+
 ```
 
 2. Install dependencies:
